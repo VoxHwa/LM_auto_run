@@ -88,8 +88,8 @@ def correctloc():
 '''
 #龙猫vx登录
 def vxlogin(account,password):
-    account="13306184200"
-    password="Tomhua2001"
+    account=""#vx账户
+    password=""#vx密码
 
     acc=None
     while acc is None:
