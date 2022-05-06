@@ -4,6 +4,8 @@
 基于android simulator、pyautogui、cv2、scheduletasks 完成全部自动化 不需要人起床！！！
 
 onerun()函数,只要输入你的微信密码就可自动化跑步
+## 实现思路
+定时启动模拟用户登录微信、龙猫，然后使用虚拟定位模拟跑步行为
 
 ## 使用注意事项
 
