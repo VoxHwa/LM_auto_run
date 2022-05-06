@@ -39,7 +39,7 @@ onerun()函数,只要输入你的微信密码就可自动化跑步
     - 改系统时间到晨跑时间的Bug好像又被内部放了出来，极有可能说明龙猫内部开发管理跟代跑从业人员有利益勾结，不然也不会修复了Bug又放了出来，我觉得着实离谱
 
 ## 资助
-各位老板帅气美丽！当然也欢迎各位小伙伴白嫖！反制代跑垄断付费，自我代跑！！！
+各位老板帅气美丽！当然也欢迎各位小伙伴白嫖！反制代跑垄断高价付费，自我代跑！！！
 
 <img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/alipay.jpg" width = "200" height = "300" alt="" align=left />
 <img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/wechat.jpg" width = "200" height = "300" alt="" align=left />
