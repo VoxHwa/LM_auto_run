@@ -1,5 +1,5 @@
 # LM_auto_run 龙猫自动化晨跑代跑 让机器学会自动跑步
-龙猫自动化晨跑项目 __文件待上传__
+龙猫自动化晨跑项目 __所需文件资源已经全部上传__
 
 基于android simulator、pyautogui、cv2、scheduletasks 完成全部自动化 不需要人起床！！！
 
