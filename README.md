@@ -40,5 +40,6 @@ onerun()函数,只要输入你的微信密码就可自动化跑步
 
 ## 资助
 各位老板帅气美丽！当然也欢迎各位小伙伴白嫖！反制代跑垄断付费，自我代跑！！！
+
 <img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/alipay.jpg" width = "200" height = "300" alt="" align=left />
 <img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/wechat.jpg" width = "200" height = "300" alt="" align=left />
