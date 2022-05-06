@@ -199,7 +199,6 @@ def onerunsimple():
     playrec=loc_corf("playrec",area=recfield)
 def onerun(password):
     
-    
     directvxlogin(password)
     time.sleep(8)
     #quit vx back to desktop
