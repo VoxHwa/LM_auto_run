@@ -1,7 +1,7 @@
 # LM_auto_run 龙猫自动化晨跑代跑 让机器学会自动跑步
 龙猫自动化晨跑项目 __部分配置文件待上传__
 
-基于android simulator、pyautogui、cv2、scheduldtasks 完成全部自动化 不需要人起床！！！
+基于android simulator、pyautogui、cv2、scheduletasks 完成全部自动化 不需要人起床！！！
 
 onerun()函数,只要输入你的微信密码就可自动化跑步
 
